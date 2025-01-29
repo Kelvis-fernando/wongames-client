@@ -1,5 +1,5 @@
 const config = {
-  stories: ['../src/**/*.mdx', '../src/components/**/stories.tsx'],
+  stories: ['../src/**/*.mdx', '../src/app/components/**/stories.tsx'],
   addons: ['@storybook/addon-essentials'],
   framework: {
     name: '@storybook/nextjs',
